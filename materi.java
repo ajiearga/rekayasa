@@ -3,5 +3,7 @@ public class materi{
   private String umur;
   
   public materi(String nama,String umur){
+    this.nama=nama;
+    this.umur=umur;
   }
 }
